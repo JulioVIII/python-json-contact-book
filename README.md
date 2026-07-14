@@ -44,4 +44,4 @@ python json_contact_book.py
 
 ## Author
 
-Created by Javier as part of a Python learning journey.
+Created by Julio Torres as part of a Python learning journey.
